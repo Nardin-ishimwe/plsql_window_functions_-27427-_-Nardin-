@@ -1,0 +1,1 @@
+# plsql_window_functions_-27427-_-Nardin-
